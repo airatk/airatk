@@ -65,7 +65,7 @@ I fell in love with creating software at the age of 13, began gainning skills of
 
 * **Kazan National Research Technical University named after A.N. Tupolev - KAI**  
   Kazan, Tatarstan, Russia  
-  2018 — 2022  
+  2018 — 2022, bachelor's degree  
   Institute of Computer Technologies & Information Protection  
   Faculty of Computer Science & Engineering  
   Department of Computer Systems
