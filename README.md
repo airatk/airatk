@@ -1,6 +1,8 @@
 # **Hi, I'm Airat, And Here Is My Resume**
 
-I fell in love with creating software at the age of 13, began gainning skills of software engineering while studying at school, got done several freelance projects on the 1st couple of years of studying at the university, and have been working as a web developer since 2021.  
+I fell in love with creating software at the age of 13, began gainning skills of software engineering while studying at school, got done several freelance projects on the 1st couple of years of studying at the university, and have been working as a web developer since 2021.
+
+_Currently I'm actively looking for a job as a **Middle Python Backend Developer**._
 
 ### **Additional Info**
 
