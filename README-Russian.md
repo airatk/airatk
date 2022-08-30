@@ -82,3 +82,8 @@ _В настоящее время активно ищу работу на поз
 * GitHub: [@airatk](https://github.com/airatk)
 * Telegram: [@airatk](https://telegram.me/airatk)
 * Email: [kamairat@icloud.com](mailto:kamairat@icloud.com)
+
+
+------
+
+[switch to English](https://github.com/airatk/airatk/blob/main/README.md)

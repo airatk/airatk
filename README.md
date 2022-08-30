@@ -82,3 +82,8 @@ _Currently I'm actively looking for a job as a **Middle Python Backend Developer
 * GitHub: [@airatk](https://github.com/airatk)
 * Telegram: [@airatk](https://telegram.me/airatk)
 * Email: [kamairat@icloud.com](mailto:kamairat@icloud.com)
+
+
+------
+
+[переключиться на Русский](https://github.com/airatk/airatk/blob/main/README-Russian.md)
