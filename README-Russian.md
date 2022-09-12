@@ -2,7 +2,7 @@
 
 Я бесповоротно увлёкся разработкой ПО в возрасте 13 лет, начал изучать основы программирования во время учёбы в школе, выполнил несколько фриланс-проектов за первые пару лет обучения в университете, а с 2021 года работаю веб-разработчиком.
 
-_В настоящее время активно ищу работу на позиции **Middle Python Backend Developer**._
+_В настоящее время активно ищу работу в качестве **Backend Python Developer**._
 
 ### **Допольнительно**
 
@@ -17,6 +17,19 @@ _В настоящее время активно ищу работу на поз
 
 ------
 
+### **Навыки**
+
+------
+
+* `Python, Flask, AIOHTTP, AsyncIO, Mulptiprocessing, Peewee ORM`
+* `JavaScript, TypeScript, Svelte`
+* `PostgreSQL`
+* `Nginx`
+* `Linux, Git`
+
+
+------
+
 ### **Опыт**
 
 ------
@@ -25,7 +38,7 @@ _В настоящее время активно ищу работу на поз
 
 * **Full Stack Web Developer, в ГК Альфа**  
   Март 2021 — Сейчас  
-  `Python, Flask, Peewee ORM, AsyncIO, Mulptiprocessing, JavaScript, TypeScript, Svelte, PostgreSQL, SQL Server, Nginx, Docker`  
+  `Python, Flask, AIOHTTP, AsyncIO, Mulptiprocessing, Peewee ORM, JavaScript, TypeScript, Svelte, PostgreSQL, SQL Server, Nginx, Docker`  
   **Обязанности:** Реализация frontend'а и backend'а веб-приложений с нуля, работа над новым функционалом для существующих веб-приложений, а также проведение код-ревью для других разработчиков команды.
 
 ------

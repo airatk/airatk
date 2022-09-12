@@ -2,7 +2,7 @@
 
 I fell in love with creating software at the age of 13, began gainning skills of software engineering while studying at school, got done several freelance projects on the 1st couple of years of studying at the university, and have been working as a web developer since 2021.
 
-_Currently I'm actively looking for a job as a **Middle Python Backend Developer**._
+_Currently I'm actively looking for a job as a **Backend Python Developer**._
 
 ### **Additional Info**
 
@@ -17,6 +17,19 @@ _Currently I'm actively looking for a job as a **Middle Python Backend Developer
 
 ------
 
+### **Skills**
+
+------
+
+* `Python, Flask, AIOHTTP, AsyncIO, Mulptiprocessing, Peewee ORM`
+* `JavaScript, TypeScript, Svelte`
+* `PostgreSQL`
+* `Nginx`
+* `Linux, Git`
+
+
+------
+
 ### **Timeline**
 
 ------
@@ -25,7 +38,7 @@ _Currently I'm actively looking for a job as a **Middle Python Backend Developer
 
 * **Full Stack Web Developer, at AGC (ГК Альфа)**  
   March 2021 — Now  
-  `Python, Flask, Peewee ORM, AsyncIO, Mulptiprocessing, JavaScript, TypeScript, Svelte, PostgreSQL, SQL Server, Nginx, Docker`  
+  `Python, Flask, AIOHTTP, AsyncIO, Mulptiprocessing, Peewee ORM, JavaScript, TypeScript, Svelte, PostgreSQL, SQL Server, Nginx, Docker`  
   **Responsibilities:** Implementing both of frontend & backend of web applications from scratch, working on new features for the existing ones, as well as providing a code review for other web developers in a team.  
 
 ------
