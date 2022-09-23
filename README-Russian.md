@@ -21,7 +21,7 @@ _В настоящее время активно ищу работу в каче
 
 ------
 
-* `Python, Flask, AIOHTTP, AsyncIO, Mulptiprocessing, Peewee ORM`
+* `Python, Flask, AIOHTTP, Peewee ORM`
 * `JavaScript, TypeScript, Svelte`
 * `PostgreSQL`
 * `Nginx`
@@ -38,7 +38,7 @@ _В настоящее время активно ищу работу в каче
 
 * **Full Stack Web Developer, в ГК Альфа**  
   Март 2021 — Сейчас  
-  `Python, Flask, AIOHTTP, AsyncIO, Mulptiprocessing, Peewee ORM, JavaScript, TypeScript, Svelte, PostgreSQL, SQL Server, Nginx, Docker`  
+  `Python, Flask, AIOHTTP, Peewee ORM, JavaScript, TypeScript, Svelte, PostgreSQL, SQL Server, Nginx, Docker`  
   **Обязанности:** Реализация frontend'а и backend'а веб-приложений с нуля, работа над новым функционалом для существующих веб-приложений, а также проведение код-ревью для других разработчиков команды.
 
 ------
@@ -47,14 +47,14 @@ _В настоящее время активно ищу работу в каче
 
 * **Исэплэу (Исәпләү)**  
   Февраль — Август 2022  
-  `Python, Flask, Peewee ORM, TypeScript, Svelte, PostgreSQL, Gunicorn, Nginx`  
+  `Python, Flask, Peewee ORM, TypeScript, Svelte, PostgreSQL, Nginx`  
   Веб-приложение (SPA & API) для статистического учёта медицинских организаций Республики Татарстан.  
   **Обязанности:** Подготовка технического описания проекта, дизайна и макета, разработка API и frontend'а приложения, запуск на сервере, реализация дополнительного функционала и изменений в дизайне по запросу заказчика.
 
 * **Тулпар Контрол**  
   Октябрь — Декабрь 2019, Июнь — Июль 2020  
-  `Python, Django, CSS & HTML, PostgreSQL, Gunicorn, Nginx`  
-  Веб-приложение (SSR-приложение) для ООО «Тулпар Интерьер Групп», являющееся системой управления заявками для производственных подразделений компании.  
+  `Python, Django, CSS & HTML, PostgreSQL, Nginx`  
+  Веб-приложение (SSR-приложение) для управления заявками производственных подразделений ООО «Тулпар Интерьер Групп».  
   **Обязанности:** Подготовка технического описания проекта, дизайна и макета, разработка backend'а и frontend'а приложения, запуск на сервере, реализация дополнительного функционала и изменений в дизайне по запросу заказчика.
 
 * **Каист**  

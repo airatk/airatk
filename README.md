@@ -21,7 +21,7 @@ _Currently I'm actively looking for a job as a **Backend Python Developer**._
 
 ------
 
-* `Python, Flask, AIOHTTP, AsyncIO, Mulptiprocessing, Peewee ORM`
+* `Python, Flask, AIOHTTP, Peewee ORM`
 * `JavaScript, TypeScript, Svelte`
 * `PostgreSQL`
 * `Nginx`
@@ -38,7 +38,7 @@ _Currently I'm actively looking for a job as a **Backend Python Developer**._
 
 * **Full Stack Web Developer, at AGC (ГК Альфа)**  
   March 2021 — Now  
-  `Python, Flask, AIOHTTP, AsyncIO, Mulptiprocessing, Peewee ORM, JavaScript, TypeScript, Svelte, PostgreSQL, SQL Server, Nginx, Docker`  
+  `Python, Flask, AIOHTTP, Peewee ORM, JavaScript, TypeScript, Svelte, PostgreSQL, SQL Server, Nginx, Docker`  
   **Responsibilities:** Implementing both of frontend & backend of web applications from scratch, working on new features for the existing ones, as well as providing a code review for other web developers in a team.  
 
 ------
@@ -47,14 +47,14 @@ _Currently I'm actively looking for a job as a **Backend Python Developer**._
 
 * **Isepleu (Исәпләү)**  
   February — August 2022  
-  `Python, Flask, Peewee ORM, TypeScript, Svelte, PostgreSQL, Gunicorn, Nginx`  
+  `Python, Flask, Peewee ORM, TypeScript, Svelte, PostgreSQL, Nginx`  
   Web app (SPA & API) for statistical accounting of medical organisations in the Republic of Tatarstan.  
   **Responsibilities:** Preparation of technical specifications, design & mock-up, development of API & frontend of the app, launching on a server, implementation of additional features & design changes at the request of the client.
 
 * **Tulpar Control**  
   October — December 2019, June — July 2020  
-  `Python, Django, CSS & HTML, PostgreSQL, Gunicorn, Nginx`  
-  Web app (SSR app) for Tulpar Interior Group LLC (ООО «Тулпар Интерьер Групп») which is an order management system for manufacturing devisions of the company.  
+  `Python, Django, CSS & HTML, PostgreSQL, Nginx`  
+  Web app (SSR app) for managing orders of manufacturing devisions of the Tulpar Interior Group LLC (ООО «Тулпар Интерьер Групп»).  
   **Responsibilities:** Preparation of technical specifications, design & mock-up, development of backend & frontend of the app, launching on a server, implementation of additional features & design changes at the request of the client.
 
 * **Kaist**  
