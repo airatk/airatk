@@ -12,7 +12,7 @@ _Currently I'm actively looking for a job as a **Backend Python Developer**._
 #### **Languages**
 
 * Russian: Native
-* English: C1
+* English: C1 ([EF SET Certificate](https://www.efset.org/cert/uptKZR))
 
 
 ------
@@ -36,10 +36,10 @@ _Currently I'm actively looking for a job as a **Backend Python Developer**._
 
 #### **Work Experience**
 
-* **Full Stack Web Developer, at AGC (ГК Альфа)**  
+* **Full Stack Web Developer, at AGC (ГК «Альфа»)**  
   March 2021 — Now  
-  `Python, Flask, AIOHTTP, Peewee ORM, JavaScript, TypeScript, Svelte, PostgreSQL, SQL Server, Nginx, Docker`  
-  **Responsibilities:** Implementing both of frontend & backend of web applications from scratch, working on new features for the existing ones, as well as providing a code review for other web developers in a team.  
+  `Python, Flask, AIOHTTP, Peewee ORM, JavaScript, TypeScript, Svelte, PostgreSQL, SQL Server, Nginx, Docker; Java, CUBA`  
+  **Responsibilities:** Implementing both of frontend & backend of web applications from scratch, working on new features for the existing ones, as well as providing a code review for other web developers in a team. Also, supporting a legacy project — SSR web app on Java.   
 
 ------
 
@@ -47,7 +47,7 @@ _Currently I'm actively looking for a job as a **Backend Python Developer**._
 
 * **Isepleu (Исәпләү)**  
   February — August 2022  
-  `Python, Flask, Peewee ORM, TypeScript, Svelte, PostgreSQL, Nginx`  
+  `Python, Flask, Peewee ORM, TypeScript, Svelte, PostgreSQL, Nginx, Docker`  
   Web app (SPA & API) for statistical accounting of medical organisations in the Republic of Tatarstan.  
   **Responsibilities:** Preparation of technical specifications, design & mock-up, development of API & frontend of the app, launching on a server, implementation of additional features & design changes at the request of the client.
 
@@ -66,9 +66,9 @@ _Currently I'm actively looking for a job as a **Backend Python Developer**._
 
 * **Kaist Bot**  
   February 2019  
-  `Python, AIOGram, Peewee ORM, PostgreSQL`  
-  Telegram bot for students of KNRTU-KAI which makes schedule, score & other useful information a lot easier to get. The bot has 2,252 active users by February 20, 2022.  
-  **Responsibilities:** Reverse engineering a university’s website (due to the lack of an official API of obtaining schedule & other student data), design of UX of Telegram Bot Chat Interface, design of logo & poster, development of the app, launching on a server, user support, implemetation of updates.  
+  `Python, AIOGram, VKWave, Peewee ORM, PostgreSQL`  
+  Telegram & VK bot for students of KNRTU-KAI which makes schedule, score & other useful information a lot easier to get. The bot has 2,252 active users by February 20, 2022.  
+  **Responsibilities:** Reverse engineering a university’s website (due to the lack of an official API of obtaining schedule & other student data), design of UX of Telegram Bot Chat Interface & VK Bot Chat Interface, design of logo & poster, development of the app, launching on a server, user support, implemetation of updates.  
   **Links:** [GitHub repository](https://github.com/airatk/kaishnik-bot)
 
 
